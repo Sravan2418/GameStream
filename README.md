@@ -9,6 +9,7 @@ Title: Real-Time Lacrosse Game Stream Data Management and Boxscore Generation
 
 Objective: Develop a MongoDB schema and data model to capture, store, and query real-time game stream data for a lacrosse match between Syracuse and Colgate, 
 focusing on delivering a comprehensive boxscore that includes all critical game events and statistics.
+<img width="817" alt="Screenshot 2024-04-03 at 3 25 27 PM" src="https://github.com/Sravan2418/GameStream/assets/148643574/2cc8d6f2-62f5-4c35-8079-5e383b40b07b">
 
 Technical Summary
 Database System: MongoDB (Document-based NoSQL Database)
