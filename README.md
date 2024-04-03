@@ -1,3 +1,5 @@
+exam : https://github.com/mafudge/ist769sp24midterm
+
 Creating a robust and scalable database architecture for real-time game streaming data represents a pivotal challenge in the modern data-driven landscape. 
 The project outlined below showcases the design and implementation of a MongoDB-based solution, 
 aimed at handling the dynamic and complex nature of lacrosse game events, specifically focusing on a game between Syracuse (home team) and Colgate (away team).
