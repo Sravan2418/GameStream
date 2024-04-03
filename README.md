@@ -8,6 +8,8 @@
 
 <img width="817" alt="Screenshot 2024-04-03 at 3 25 27 PM" src="https://github.com/Sravan2418/GameStream/assets/148643574/2cc8d6f2-62f5-4c35-8079-5e383b40b07b">
 
+### Summary :**  Spearheaded the development of a MongoDB-driven architecture for processing real-time lacrosse game analytics between Syracuse and Colgate. This comprehensive project involved the creation of a sophisticated data pipeline capable of handling simulated game streams alongside player and team reference data, embodying the principles of NoSQL, object storage, and Apache Drill for superior data querying and analytical depth. Tasked with the challenge originally devised for a data engineering role at Sidearm Sports, the project demanded and demonstrated exceptional proficiency in distributed data management, real-time analytics, and the dynamic generation of game boxscores. Successfully delivering a scalable solution, this initiative not only underlined my adeptness in modern database technologies but also my capacity to craft and manage complex data workflows, significantly enhancing sports analytics and fan interaction.
+
 ### Skills and Technologies
 
 - **MongoDB:** Leveraged as the core document-oriented NoSQL database for efficient storage and retrieval of game events, player statistics, and real-time updates to the boxscore.
