@@ -1,10 +1,12 @@
-###exam : https://github.com/mafudge/ist769sp24midterm
+### EXAM : https://github.com/mafudge/ist769sp24midterm
 
 ### Enhanced Project Overview
 
 **Project Title:** Real-Time Lacrosse Game Stream Data Management and Boxscore Generation with MongoDB
 
 **Project Goal:** To design and implement a scalable MongoDB-based architecture for capturing, storing, and querying real-time lacrosse game stream data, focusing on a match between Syracuse and Colgate. This solution highlights the development of an interactive boxscore, integrating advanced NoSQL techniques, object storage solutions, and big data query tools.
+
+<img width="817" alt="Screenshot 2024-04-03 at 3 25 27 PM" src="https://github.com/Sravan2418/GameStream/assets/148643574/2cc8d6f2-62f5-4c35-8079-5e383b40b07b">
 
 ### Skills and Technologies
 
@@ -25,3 +27,4 @@
 ### Project Conclusion
 
 This project stands as a testament to the effective application of MongoDB and associated technologies in handling real-time, big data challenges within the sports analytics domain. By integrating MongoDB’s document model with object storage, SQL, NoSQL foundations, and Apache Drill, the project delivers a comprehensive and interactive lacrosse game boxscore. This solution not only enhances the fan experience through immediate access to game insights but also empowers analysts and teams with deep analytical tools. Through this project, I have demonstrated proficiency in cutting-edge database technologies, data modeling, and the development of scalable big data solutions, positioning myself as a skilled professional in the field of data management and analytics.
+
